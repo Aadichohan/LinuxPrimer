@@ -1,0 +1,16 @@
+cd  = to move to directory
+ls  = to show files list in a direcrory
+rm  = to remove any file
+rmdir = to remove direcoty
+mkdir = to create directory
+ls | grep (and word or string) = to serch the file containing the character in the name
+ls > filename = overrite File data & add list data to file 
+ls >> file    = Append data to file with file orignal data
+ls -l = to list file with read write rights
+ls -lh = to list file with read write rights and file size
+cp <fileName> </home/user/Downloads>
+whoami = to know the current user
+cd ~ = for navigate to home directory
+sudo -i = to convert to the root user
+mv <filename> <newFileName> = to re name file
+mv <filename> </home/user/Downloads> = to move file from one folder to another
