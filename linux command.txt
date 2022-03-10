@@ -1,6 +1,7 @@
 cd  = to move to directory
 ls  = to show files list in a direcrory
 rm  = to remove any file
+mv  </home/user/Downloads/FileName> = (use absolute path)to move file from one folder to another
 rmdir = to remove direcoty
 mkdir = to create directory
 ls | grep (and word or string) = to serch the file containing the character in the name
@@ -12,5 +13,6 @@ cp <fileName> </home/user/Downloads>
 whoami = to know the current user
 cd ~ = for navigate to home directory
 sudo -i = to convert to the root user
+exit = to go back to normal user
 mv <filename> <newFileName> = to re name file
 mv <filename> </home/user/Downloads> = to move file from one folder to another
